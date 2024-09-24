@@ -7,10 +7,7 @@
   },
   "package": {
     "productName": "notes",
-    "version": "0.1.0",
-    "author": "mkbs",
-    "description": "A simple note taking app",
-    "license": "MIT"
+    "version": "0.1.0"
   },
   "tauri": {
     "allowlist": {
